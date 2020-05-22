@@ -11,6 +11,10 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+image_picker: ^0.6.6+1
+  sqflite: ^1.3.0+1
+  url_launcher: ^5.4.10
+
 
 
 ![11a8f5e7-0560-4eda-837e-bd76f7b2d646](https://user-images.githubusercontent.com/53689685/82668952-971d9500-9c4b-11ea-8139-dceb50973ae5.jpg)
